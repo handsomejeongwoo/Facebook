@@ -1,0 +1,103 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(233, 233, 233);
+}
+.logo-position{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+input:focus {outline:none;}
+.logo{
+    width:270;
+    height: 94px;
+}
+.resistration{
+    background-color: #fff;
+    border-radius:8px 8px 0 0 ;
+    width: 432px;
+    height: 80px;
+    margin: 0 auto;
+    
+}
+.ment1{
+    padding-top: 10px;
+    text-align: center;
+    font-size: 25px;
+}
+.ment2{
+    text-align: center;
+    color: #1c1e21;
+    font-size:15px
+}
+.information{
+   margin: 0 auto;
+  margin-top: 2px;
+    width: 432px;
+    height: 500px;
+    background-color: #fff;
+    padding-top: 16px;
+    
+    border-radius: 0 0 8px 8px;
+    
+}
+.infor{
+    text-align: center;
+}
+#name{
+    width: 194px;
+    height: 35px;
+    border-color:#ccd0d5 ;
+    border-radius: 5px;
+    
+}
+#secret{
+    margin-top: 10px;
+    width: 402px;
+    height: 35px;
+    border-color:#ccd0d5 ;
+    border-radius: 5px;
+}
+.ne{
+    float: left;
+    padding-top: 11px;
+    padding-left: 13px;
+    color: #606770;
+    font-size: 12px;
+}
+.birthday{
+   padding-left: 13px;
+    padding-top:11px ;
+    padding-bottom: 8px;
+}
+#option{
+    border-color:#ccd0d5 ;
+    border-radius: 5px;
+    width: 132px;
+    height: 35px;
+}
+.select{
+    text-align: center;
+}
+.sex{
+    padding-left: 13px;
+    padding-top:11px ;
+    padding-bottom: 8px;
+}
+#sex{
+    width: 115px;
+    height: 35px;
+    border: 1px solid #ccd0d5;
+    border-radius: 5px;
+}
+.choice-sex{
+    text-align: center;
+}
+.woman{
+    
+}
+.man{
+   
+   
+}
